@@ -1,0 +1,63 @@
+body{
+    margin:0 ;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mission-{
+    display: flex;
+    
+}
+
+.person img{
+    width: 40%;
+    padding-left: 20%;
+    
+}
+
+.stay{
+    font-size: 55px;
+    margin-left: 120px;
+    margin-top: 180px;
+    font-family: 'Josefin Sans', sans-serif;
+    border-left: 5px solid #FF5959;
+    border-radius: 5px;
+}
+span{
+    color: #FFAD5A;
+}
+
+.text{
+    margin-left: 120px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+a{
+    text-decoration: none;
+    padding:20px;
+    margin-left: 120px;
+    background-color: #FF5959;
+    border-radius: 200px;
+    font-weight: 600;
+    color: white;
+}
+
+.middel{
+    font-size: 45px;
+    margin-top: 120px;
+    text-align: center;
+}
+
+.dream{
+    display: flex;
+    width:80%;
+}
+
+.box{
+    width:50%;
+    padding:3%;
+    box-shadow: 10px 5px 5px red;
+    
+    
+}
+
