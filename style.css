@@ -50,14 +50,40 @@ a{
 
 .dream{
     display: flex;
-    width:80%;
+    width:70%;
+}
+
+.img{
+    width:500px;
 }
 
 .box{
-    width:50%;
-    padding:3%;
-    box-shadow: 10px 5px 5px red;
-    
+    width:40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 50px;
     
 }
 
+h3{
+    font-size:30px;
+    padding-left:30px;
+    color:#4d4a33;
+}
+
+.first{
+    background-color: #edf5f6;
+}
+
+.mid{
+    background-color: #ffeeee;
+}
+
+.last{
+    background-color: #fff4d6;
+}
+
+.dream p{
+    padding-left: 10px;
+    font-weight: 700;
+}
